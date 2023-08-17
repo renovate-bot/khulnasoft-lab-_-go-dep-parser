@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/ruby/gemspec"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/ruby/gemspec"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 )
 
 func TestParse(t *testing.T) {

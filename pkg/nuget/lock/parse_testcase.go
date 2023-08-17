@@ -1,6 +1,6 @@
 package lock
 
-import "github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+import "github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 
 var (
 	// docker run --rm -i -t mcr.microsoft.com/dotnet/sdk:latest

@@ -11,7 +11,7 @@ import (
 	"github.com/hashicorp/go-retryablehttp"
 	"golang.org/x/xerrors"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/java/jar"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/java/jar"
 )
 
 const (

@@ -15,10 +15,10 @@ github.com/hashicorp/go-multierror v1.1.1 h1:H5DkEtf6CXdFp0N0Em5UCwQpXMWke8IA0+l
 github.com/hashicorp/go-multierror v1.1.1/go.mod h1:iw975J/qwKPdAO1clOe2L8331t/9/fmwbPZ6JB6eMoM=
 github.com/hashicorp/go-retryablehttp v0.7.4 h1:ZQgVdpTdAL7WpMIwLzCfbalOcSUdkDZnpUv3/+BxzFA=
 github.com/hashicorp/go-retryablehttp v0.7.4/go.mod h1:Jy/gPYAdjqffZ/yFGCFV2doI5wjtH1ewM9u8iYVjtX8=
-github.com/khulnasoft-labs/go-pep440-version v0.0.0-20230803075837-bb574708cb7a h1:zU6joemP729T/D7QK0G0jcNk1LUZ5bwJQeI+LYqtdxI=
-github.com/khulnasoft-labs/go-pep440-version v0.0.0-20230803075837-bb574708cb7a/go.mod h1:sEjPhabfwEKe8Vnz6qAWDXO4vc51jLZffJqgyxwUKxE=
-github.com/khulnasoft-labs/goversion v1.0.0 h1:1VL+7EFgioPbJbI5Ra4zMavtLVKlnsG7x0yHO5K9OiM=
-github.com/khulnasoft-labs/goversion v1.0.0/go.mod h1:DmJW3cdZonubNsMgFo81Whr/ED93+PpOzkB+UbbzNn8=
+github.com/khulnasoft-lab/go-pep440-version v0.0.0-20230803075837-bb574708cb7a h1:zU6joemP729T/D7QK0G0jcNk1LUZ5bwJQeI+LYqtdxI=
+github.com/khulnasoft-lab/go-pep440-version v0.0.0-20230803075837-bb574708cb7a/go.mod h1:sEjPhabfwEKe8Vnz6qAWDXO4vc51jLZffJqgyxwUKxE=
+github.com/khulnasoft-lab/goversion v1.0.0 h1:1VL+7EFgioPbJbI5Ra4zMavtLVKlnsG7x0yHO5K9OiM=
+github.com/khulnasoft-lab/goversion v1.0.0/go.mod h1:DmJW3cdZonubNsMgFo81Whr/ED93+PpOzkB+UbbzNn8=
 github.com/liamg/jfather v0.0.7 h1:Xf78zS263yfT+xr2VSo6+kyAy4ROlCacRqJG7s5jt4k=
 github.com/liamg/jfather v0.0.7/go.mod h1:xXBGiBoiZ6tmHhfy5Jzw8sugzajwYdi6VosIpB3/cPM=
 github.com/microsoft/go-rustaudit v0.0.0-20220808201409-204dfee52032 h1:TLygBUBxikNJJfLwgm+Qwdgq1FtfV8Uh7bcxRyTzK8s=

@@ -9,7 +9,7 @@ import (
 
 	"github.com/samber/lo"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
 )
 
 type pom struct {

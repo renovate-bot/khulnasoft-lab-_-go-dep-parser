@@ -6,9 +6,9 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/golang/mod"
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/golang/mod"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 )
 
 type Parser struct{}

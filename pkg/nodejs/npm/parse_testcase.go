@@ -1,6 +1,6 @@
 package npm
 
-import "github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+import "github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name node --rm -it node@sha256:51dd437f31812df71108b81385e2945071ec813d5815fa3403855669c8f3432b sh

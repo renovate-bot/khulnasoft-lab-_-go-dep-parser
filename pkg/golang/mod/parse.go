@@ -11,8 +11,8 @@ import (
 	"golang.org/x/mod/modfile"
 	"golang.org/x/xerrors"
 
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 )
 
 var (
@@ -156,7 +156,7 @@ func lessThan117(ver string) bool {
 
 // ModuleID returns a module ID according the Go way.
 // Format: <module_name>@v<module_version>
-// e.g. github.com/khulnasoft-labs/go-dep-parser@v0.0.0-20230130190635-5e31092b0621
+// e.g. github.com/khulnasoft-lab/go-dep-parser@v0.0.0-20230130190635-5e31092b0621
 func ModuleID(name, version string) string {
 	return fmt.Sprintf("%s@v%s", name, version)
 }

@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

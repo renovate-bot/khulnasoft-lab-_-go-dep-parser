@@ -4,9 +4,9 @@ package binary
 import (
 	"golang.org/x/xerrors"
 
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
 	rustaudit "github.com/microsoft/go-rustaudit"
 )
 

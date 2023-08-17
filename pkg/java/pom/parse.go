@@ -12,13 +12,13 @@ import (
 	"strings"
 
 	multierror "github.com/hashicorp/go-multierror"
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
 	"golang.org/x/net/html/charset"
 	"golang.org/x/xerrors"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/log"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/log"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
 )
 
 const (

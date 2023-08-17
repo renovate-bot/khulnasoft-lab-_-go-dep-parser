@@ -1,7 +1,7 @@
 package types
 
 import (
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
 )
 
 type Library struct {

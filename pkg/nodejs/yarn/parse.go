@@ -7,11 +7,11 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/log"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/log"
 
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
 	"github.com/samber/lo"
 	"golang.org/x/xerrors"
 )

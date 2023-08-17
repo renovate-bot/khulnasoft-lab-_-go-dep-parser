@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/golang/binary"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/golang/binary"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 )
 
 func TestParse(t *testing.T) {
@@ -23,11 +23,11 @@ func TestParse(t *testing.T) {
 			inputFile: "testdata/test.elf",
 			want: []types.Library{
 				{
-					Name:    "github.com/khulnasoft-labs/go-pep440-version",
+					Name:    "github.com/khulnasoft-lab/go-pep440-version",
 					Version: "v0.0.0-20210121094942-22b2f8951d46",
 				},
 				{
-					Name:    "github.com/khulnasoft-labs/goversion",
+					Name:    "github.com/khulnasoft-lab/goversion",
 					Version: "v0.0.0-20210121072130-637058cfe492",
 				},
 				{
@@ -41,11 +41,11 @@ func TestParse(t *testing.T) {
 			inputFile: "testdata/test.exe",
 			want: []types.Library{
 				{
-					Name:    "github.com/khulnasoft-labs/go-pep440-version",
+					Name:    "github.com/khulnasoft-lab/go-pep440-version",
 					Version: "v0.0.0-20210121094942-22b2f8951d46",
 				},
 				{
-					Name:    "github.com/khulnasoft-labs/goversion",
+					Name:    "github.com/khulnasoft-lab/goversion",
 					Version: "v0.0.0-20210121072130-637058cfe492",
 				},
 				{
@@ -59,11 +59,11 @@ func TestParse(t *testing.T) {
 			inputFile: "testdata/test.macho",
 			want: []types.Library{
 				{
-					Name:    "github.com/khulnasoft-labs/go-pep440-version",
+					Name:    "github.com/khulnasoft-lab/go-pep440-version",
 					Version: "v0.0.0-20210121094942-22b2f8951d46",
 				},
 				{
-					Name:    "github.com/khulnasoft-labs/goversion",
+					Name:    "github.com/khulnasoft-lab/goversion",
 					Version: "v0.0.0-20210121072130-637058cfe492",
 				},
 				{

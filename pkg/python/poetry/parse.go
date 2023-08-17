@@ -7,11 +7,11 @@ import (
 	"github.com/BurntSushi/toml"
 	"golang.org/x/xerrors"
 
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/log"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
-	version "github.com/khulnasoft-labs/go-pep440-version"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/log"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
+	version "github.com/khulnasoft-lab/go-pep440-version"
 )
 
 type Lockfile struct {

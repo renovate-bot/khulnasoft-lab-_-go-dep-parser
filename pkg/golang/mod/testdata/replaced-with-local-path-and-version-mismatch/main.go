@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/golang/mod"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/golang/mod"
 )
 
 func main() {

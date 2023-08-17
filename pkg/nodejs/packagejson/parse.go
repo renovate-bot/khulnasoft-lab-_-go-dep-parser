@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
 	"golang.org/x/xerrors"
 )
 

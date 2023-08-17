@@ -1,6 +1,6 @@
 package pip
 
-import "github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+import "github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 
 var (
 	requirementsFlask = []types.Library{

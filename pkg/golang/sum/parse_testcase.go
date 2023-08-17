@@ -1,6 +1,6 @@
 package sum
 
-import "github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+import "github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name gomod --rm -it golang:1.15 bash
@@ -51,7 +51,7 @@ var (
 	// mkdir repo
 	// cd repo
 	// go mod init github.com/org/repo
-	// go get github.com/khulnasoft-labs/trivy
+	// go get github.com/khulnasoft-lab/trivy
 	// go list -m all | awk 'NR>1 {sub(/^v/, "", $2); printf("{\""$1"\", \""$2"\", },\n")}'
 	GoModTrivy = []types.Library{
 		{Name: "cloud.google.com/go", Version: "0.65.0"},
@@ -87,17 +87,17 @@ var (
 		{Name: "github.com/alicebob/gopher-json", Version: "0.0.0-20200520072559-a9ecdc9d1d3a"},
 		{Name: "github.com/alicebob/miniredis/v2", Version: "2.14.1"},
 		{Name: "github.com/anmitsu/go-shlex", Version: "0.0.0-20161002113705-648efa622239"},
-		{Name: "github.com/khulnasoft-labs/bolt-fixtures", Version: "0.0.0-20200903104109-d34e7f983986"},
-		{Name: "github.com/khulnasoft-labs/fanal", Version: "0.0.0-20210119051230-28c249da7cfd"},
-		{Name: "github.com/khulnasoft-labs/go-dep-parser", Version: "0.0.0-20201028043324-889d4a92b8e0"},
-		{Name: "github.com/khulnasoft-labs/go-gem-version", Version: "0.0.0-20201115065557-8eed6fe000ce"},
-		{Name: "github.com/khulnasoft-labs/go-npm-version", Version: "0.0.0-20201110091526-0b796d180798"},
-		{Name: "github.com/khulnasoft-labs/go-pep440-version", Version: "0.0.0-20210121094942-22b2f8951d46"},
-		{Name: "github.com/khulnasoft-labs/goversion", Version: "0.0.0-20210121072130-637058cfe492"},
-		{Name: "github.com/khulnasoft-labs/testdocker", Version: "0.0.0-20210106133225-0b17fe083674"},
-		{Name: "github.com/khulnasoft-labs/trivy", Version: "0.16.0"},
-		{Name: "github.com/khulnasoft-labs/trivy-db", Version: "0.0.0-20210105160501-c5bf4e153277"},
-		{Name: "github.com/khulnasoft-labs/vuln-list-update", Version: "0.0.0-20191016075347-3d158c2bf9a2"},
+		{Name: "github.com/khulnasoft-lab/bolt-fixtures", Version: "0.0.0-20200903104109-d34e7f983986"},
+		{Name: "github.com/khulnasoft-lab/fanal", Version: "0.0.0-20210119051230-28c249da7cfd"},
+		{Name: "github.com/khulnasoft-lab/go-dep-parser", Version: "0.0.0-20201028043324-889d4a92b8e0"},
+		{Name: "github.com/khulnasoft-lab/go-gem-version", Version: "0.0.0-20201115065557-8eed6fe000ce"},
+		{Name: "github.com/khulnasoft-lab/go-npm-version", Version: "0.0.0-20201110091526-0b796d180798"},
+		{Name: "github.com/khulnasoft-lab/go-pep440-version", Version: "0.0.0-20210121094942-22b2f8951d46"},
+		{Name: "github.com/khulnasoft-lab/goversion", Version: "0.0.0-20210121072130-637058cfe492"},
+		{Name: "github.com/khulnasoft-lab/testdocker", Version: "0.0.0-20210106133225-0b17fe083674"},
+		{Name: "github.com/khulnasoft-lab/trivy", Version: "0.16.0"},
+		{Name: "github.com/khulnasoft-lab/trivy-db", Version: "0.0.0-20210105160501-c5bf4e153277"},
+		{Name: "github.com/khulnasoft-lab/vuln-list-update", Version: "0.0.0-20191016075347-3d158c2bf9a2"},
 		{Name: "github.com/araddon/dateparse", Version: "0.0.0-20190426192744-0d74ffceef83"},
 		{Name: "github.com/armon/consul-api", Version: "0.0.0-20180202201655-eb2c6b5be1b6"},
 		{Name: "github.com/armon/go-socks5", Version: "0.0.0-20160902184237-e75332964ef5"},

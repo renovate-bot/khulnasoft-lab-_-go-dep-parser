@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/go-dep-parser
+module github.com/khulnasoft-lab/go-dep-parser
 
 go 1.18
 
@@ -6,8 +6,8 @@ require (
 	github.com/BurntSushi/toml v1.3.2
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.4
-	github.com/khulnasoft-labs/go-pep440-version v0.0.0-20230803075837-bb574708cb7a
-	github.com/khulnasoft-labs/goversion v1.0.0
+	github.com/khulnasoft-lab/go-pep440-version v0.0.0-20230803075837-bb574708cb7a
+	github.com/khulnasoft-lab/goversion v1.0.0
 	github.com/liamg/jfather v0.0.7
 	github.com/microsoft/go-rustaudit v0.0.0-20220808201409-204dfee52032
 	github.com/samber/lo v1.38.1

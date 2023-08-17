@@ -1,6 +1,6 @@
 package pipenv
 
-import "github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+import "github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 
 var (
 	// docker run --name pipenv --rm -it python:3.9-alpine sh

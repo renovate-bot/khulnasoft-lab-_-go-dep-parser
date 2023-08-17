@@ -3,7 +3,7 @@ package jar
 import (
 	"fmt"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 	"golang.org/x/xerrors"
 )
 

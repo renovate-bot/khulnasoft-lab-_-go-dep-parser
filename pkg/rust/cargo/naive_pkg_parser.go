@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/utils"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/utils"
 )
 
 type pkgPosition struct {

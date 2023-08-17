@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/java/pom"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/java/pom"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 )
 
 func TestPom_Parse(t *testing.T) {

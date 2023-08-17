@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 )
 
 func TestParse(t *testing.T) {
@@ -113,18 +113,18 @@ func TestModuleID(t *testing.T) {
 		{
 			name: "normal",
 			args: args{
-				name:    "github.com/khulnasoft-labs/trivy",
+				name:    "github.com/khulnasoft-lab/trivy",
 				version: "0.38.0",
 			},
-			want: "github.com/khulnasoft-labs/trivy@v0.38.0",
+			want: "github.com/khulnasoft-lab/trivy@v0.38.0",
 		},
 		{
 			name: "pseudo version",
 			args: args{
-				name:    "github.com/khulnasoft-labs/go-dep-parser",
+				name:    "github.com/khulnasoft-lab/go-dep-parser",
 				version: "0.0.0-20230130190635-5e31092b0621",
 			},
-			want: "github.com/khulnasoft-labs/go-dep-parser@v0.0.0-20230130190635-5e31092b0621",
+			want: "github.com/khulnasoft-lab/go-dep-parser@v0.0.0-20230130190635-5e31092b0621",
 		},
 	}
 	for _, tt := range tests {

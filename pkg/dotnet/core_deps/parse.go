@@ -8,10 +8,10 @@ import (
 
 	"golang.org/x/xerrors"
 
-	dio "github.com/khulnasoft-labs/go-dep-parser/pkg/io"
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/types"
+	dio "github.com/khulnasoft-lab/go-dep-parser/pkg/io"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/types"
 
-	"github.com/khulnasoft-labs/go-dep-parser/pkg/log"
+	"github.com/khulnasoft-lab/go-dep-parser/pkg/log"
 )
 
 type Parser struct{}
