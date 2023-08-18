@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:20-alpine
 
 COPY index.js /test_deps_generator/index.js
 COPY yarn.lock /test_deps_generator/yarn.lock
