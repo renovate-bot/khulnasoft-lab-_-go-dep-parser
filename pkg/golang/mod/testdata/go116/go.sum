@@ -20,8 +20,12 @@ github.com/khulnasoft-lab/go-dep-parser v0.0.0-20211224170007-df43bca6b6ff h1:JC
 github.com/khulnasoft-lab/go-dep-parser v0.0.0-20211224170007-df43bca6b6ff/go.mod h1:8fJ//Ob6/03lxbn4xa1F+G/giVtiVLxnZNpBp5xOxNk=
 github.com/khulnasoft-lab/go-dep-parser v0.0.0-20230817165055-2fbb0a07a2a5 h1:+F190e6ObILEn14GhhJEpBK09Cpsc/W+C05ySYBQXC0=
 github.com/khulnasoft-lab/go-dep-parser v0.0.0-20230817165055-2fbb0a07a2a5/go.mod h1:HTA/qdrLEHN+7ArBUDyTnkXhQQX2VExq7Csy9js+wPs=
+github.com/khulnasoft-lab/go-dep-parser v1.0.0 h1:cGyasWk4YA43TGuK4HFRc1GcjUSYf/mIMgN5yHNdPAw=
+github.com/khulnasoft-lab/go-dep-parser v1.0.0/go.mod h1:m3ZzbIYDVuX74hSnhyQr9WDZ5DwZP+nkCKJCpxVFQkc=
 github.com/khulnasoft-lab/go-pep440-version v0.0.0-20230803075837-bb574708cb7a/go.mod h1:sEjPhabfwEKe8Vnz6qAWDXO4vc51jLZffJqgyxwUKxE=
+github.com/khulnasoft-lab/go-pep440-version v1.0.0/go.mod h1:F26+oTpmHE4IlW4uYy8HQuEZ+5Bdo/Eh88BXgig3W08=
 github.com/khulnasoft-lab/goversion v1.0.0/go.mod h1:DmJW3cdZonubNsMgFo81Whr/ED93+PpOzkB+UbbzNn8=
+github.com/khulnasoft-lab/goversion v1.0.1/go.mod h1:iXm1znzsGbrRSEC79WM5NHsSDJabotwY4FWy2Fsg3ms=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
@@ -68,6 +72,8 @@ golang.org/x/crypto v0.12.0/go.mod h1:NF0Gs7EO5K4qLn+Ylc+fih8BSTeIjAP05siRnAh98y
 golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17/go.mod h1:lgLbSvA5ygNOMpwM/9anMpWVlVJ7Z+cHWq/eFuinpGE=
 golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b h1:r+vk0EmXNmekl0S0BascoeeoHk/L7wmaW2QF90K+kYI=
 golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb h1:mIKbk8weKhSeLH2GmUTrvx8CjkyJmnU1wFmg59CUjFA=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
 golang.org/x/lint v0.0.0-20190930215403-16217165b5de/go.mod h1:6SW0HCj/g11FgYtHlgUYUwCkIfeOF89ocIRzGO/8vkc=
 golang.org/x/mod v0.0.0-20190513183733-4bf6d317e70e/go.mod h1:mXi4GBBbnImb6dmsKGUJ2LatrhH/nqhxcFungHvyanc=
 golang.org/x/mod v0.4.2/go.mod h1:s0Qsj1ACt9ePp/hMypM3fl4fZqREWJwdYDEqhRiZZUA=

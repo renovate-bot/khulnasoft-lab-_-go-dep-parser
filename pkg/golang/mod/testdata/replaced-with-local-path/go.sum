@@ -13,6 +13,8 @@ github.com/khulnasoft-lab/go-dep-parser v0.0.0-20211224170007-df43bca6b6ff h1:JC
 github.com/khulnasoft-lab/go-dep-parser v0.0.0-20211224170007-df43bca6b6ff/go.mod h1:8fJ//Ob6/03lxbn4xa1F+G/giVtiVLxnZNpBp5xOxNk=
 github.com/khulnasoft-lab/go-dep-parser v0.0.0-20230817165055-2fbb0a07a2a5 h1:+F190e6ObILEn14GhhJEpBK09Cpsc/W+C05ySYBQXC0=
 github.com/khulnasoft-lab/go-dep-parser v0.0.0-20230817165055-2fbb0a07a2a5/go.mod h1:HTA/qdrLEHN+7ArBUDyTnkXhQQX2VExq7Csy9js+wPs=
+github.com/khulnasoft-lab/go-dep-parser v1.0.0 h1:cGyasWk4YA43TGuK4HFRc1GcjUSYf/mIMgN5yHNdPAw=
+github.com/khulnasoft-lab/go-dep-parser v1.0.0/go.mod h1:m3ZzbIYDVuX74hSnhyQr9WDZ5DwZP+nkCKJCpxVFQkc=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
@@ -35,6 +37,8 @@ golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACk
 golang.org/x/crypto v0.0.0-20190510104115-cbcb75029529/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b h1:r+vk0EmXNmekl0S0BascoeeoHk/L7wmaW2QF90K+kYI=
 golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb h1:mIKbk8weKhSeLH2GmUTrvx8CjkyJmnU1wFmg59CUjFA=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
 golang.org/x/lint v0.0.0-20190930215403-16217165b5de/go.mod h1:6SW0HCj/g11FgYtHlgUYUwCkIfeOF89ocIRzGO/8vkc=
 golang.org/x/mod v0.0.0-20190513183733-4bf6d317e70e/go.mod h1:mXi4GBBbnImb6dmsKGUJ2LatrhH/nqhxcFungHvyanc=
 golang.org/x/mod v0.12.0 h1:rmsUpXtvNzj340zd98LZ4KntptpfRHwpFOHG188oHXc=
