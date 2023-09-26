@@ -51,9 +51,9 @@ var (
 	// mkdir repo
 	// cd repo
 	// go mod init github.com/org/repo
-	// go get github.com/khulnasoft-lab/trivy
+	// go get github.com/khulnasoft-lab/vul
 	// go list -m all | awk 'NR>1 {sub(/^v/, "", $2); printf("{\""$1"\", \""$2"\", },\n")}'
-	GoModTrivy = []types.Library{
+	GoModVul = []types.Library{
 		{Name: "cloud.google.com/go", Version: "0.65.0"},
 		{Name: "cloud.google.com/go/bigquery", Version: "1.8.0"},
 		{Name: "cloud.google.com/go/datastore", Version: "1.1.0"},
@@ -95,8 +95,8 @@ var (
 		{Name: "github.com/khulnasoft-lab/go-pep440-version", Version: "0.0.0-20210121094942-22b2f8951d46"},
 		{Name: "github.com/khulnasoft-lab/goversion", Version: "0.0.0-20210121072130-637058cfe492"},
 		{Name: "github.com/khulnasoft-lab/testdocker", Version: "0.0.0-20210106133225-0b17fe083674"},
-		{Name: "github.com/khulnasoft-lab/trivy", Version: "0.16.0"},
-		{Name: "github.com/khulnasoft-lab/trivy-db", Version: "0.0.0-20210105160501-c5bf4e153277"},
+		{Name: "github.com/khulnasoft-lab/vul", Version: "0.16.0"},
+		{Name: "github.com/khulnasoft-lab/vul-db", Version: "0.0.0-20210105160501-c5bf4e153277"},
 		{Name: "github.com/khulnasoft-lab/vuln-list-update", Version: "0.0.0-20191016075347-3d158c2bf9a2"},
 		{Name: "github.com/araddon/dateparse", Version: "0.0.0-20190426192744-0d74ffceef83"},
 		{Name: "github.com/armon/consul-api", Version: "0.0.0-20180202201655-eb2c6b5be1b6"},
