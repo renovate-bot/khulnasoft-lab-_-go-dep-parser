@@ -113,10 +113,10 @@ func TestModuleID(t *testing.T) {
 		{
 			name: "normal",
 			args: args{
-				name:    "github.com/khulnasoft-lab/trivy",
+				name:    "github.com/khulnasoft-lab/vul",
 				version: "0.38.0",
 			},
-			want: "github.com/khulnasoft-lab/trivy@v0.38.0",
+			want: "github.com/khulnasoft-lab/vul@v0.38.0",
 		},
 		{
 			name: "pseudo version",

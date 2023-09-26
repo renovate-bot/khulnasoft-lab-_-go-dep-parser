@@ -79,9 +79,9 @@ github.com/khulnasoft-lab/go-pep440-version v0.0.0-20210121094942-22b2f8951d46/g
 github.com/khulnasoft-lab/goversion v0.0.0-20201107203531-5e48ac5d022a/go.mod h1:9Beu8XsUNNfzml7WBf3QmyPToP1wm1Gj/Vc5UJKqTzU=
 github.com/khulnasoft-lab/goversion v0.0.0-20210121072130-637058cfe492/go.mod h1:9Beu8XsUNNfzml7WBf3QmyPToP1wm1Gj/Vc5UJKqTzU=
 github.com/khulnasoft-lab/testdocker v0.0.0-20210106133225-0b17fe083674/go.mod h1:psfu0MVaiTDLpNxCoNsTeILSKY2EICBwv345f3M+Ffs=
-github.com/khulnasoft-lab/trivy v0.16.0 h1:lyzqYGQ2TYxcjFwKBw6aU3PwHLvc0+6VTech+0/LnqQ=
-github.com/khulnasoft-lab/trivy v0.16.0/go.mod h1:SLXDW/zKJWE7XhMEGGfkFGABNvz6b8BAbNjuXztJlj0=
-github.com/khulnasoft-lab/trivy-db v0.0.0-20210105160501-c5bf4e153277/go.mod h1:N7CWA/vjVw78GWAdCJGhFQVqNGEA4e47a6eIWm+C/Bc=
+github.com/khulnasoft-lab/vul v0.16.0 h1:lyzqYGQ2TYxcjFwKBw6aU3PwHLvc0+6VTech+0/LnqQ=
+github.com/khulnasoft-lab/vul v0.16.0/go.mod h1:SLXDW/zKJWE7XhMEGGfkFGABNvz6b8BAbNjuXztJlj0=
+github.com/khulnasoft-lab/vul-db v0.0.0-20210105160501-c5bf4e153277/go.mod h1:N7CWA/vjVw78GWAdCJGhFQVqNGEA4e47a6eIWm+C/Bc=
 github.com/khulnasoft-lab/vuln-list-update v0.0.0-20191016075347-3d158c2bf9a2/go.mod h1:6NhOP0CjZJL27bZZcaHECtzWdwDDm2g6yCY0QgXEGQQ=
 github.com/araddon/dateparse v0.0.0-20190426192744-0d74ffceef83/go.mod h1:SLqhdZcd+dF3TEVL2RMoob5bBP5R1P1qkox+HtCBgGI=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=

@@ -30,8 +30,8 @@ func TestParse(t *testing.T) {
 			want: GoModMany,
 		},
 		{
-			file: "testdata/gomod_trivy.sum",
-			want: GoModTrivy,
+			file: "testdata/gomod_vul.sum",
+			want: GoModVul,
 		},
 	}
 
