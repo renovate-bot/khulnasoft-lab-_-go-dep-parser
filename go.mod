@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/go-dep-parser
 
-go 1.18
+go 1.20
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -13,7 +13,7 @@ require (
 	github.com/samber/lo v1.38.1
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.26.0
-	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
+	golang.org/x/exp v0.0.0-20220407100705-7b9b53b0aca4
 	golang.org/x/mod v0.12.0
 	golang.org/x/net v0.15.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
