@@ -1,4 +1,4 @@
-FROM maven:3.6.3-jdk-11 
+FROM maven:3.8.6-jdk-11 
 
 RUN mvn archetype:generate -DgroupId=com.example -DartifactId=web-app -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
 WORKDIR /web-app
